@@ -1,0 +1,7 @@
+{
+	"name": "codingmonkey9/mysql-builder",
+	"description": "this is mysql component for test. it is being developed",
+	"require": {
+		"php": ">=7.0.0"
+	}
+}
